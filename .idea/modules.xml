@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../testapi/.idea/api.iml" filepath="$PROJECT_DIR$/../testapi/.idea/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/api_syfea.iml" filepath="$PROJECT_DIR$/.idea/api_syfea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bdui2/.idea/bdui2.iml" filepath="$PROJECT_DIR$/../bdui2/.idea/bdui2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formatissia2/.idea/formatissia2.iml" filepath="$PROJECT_DIR$/../formatissia2/.idea/formatissia2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formatissia3/.idea/formatissia3.iml" filepath="$PROJECT_DIR$/../formatissia3/.idea/formatissia3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../passport-formation/.idea/passport-formation.iml" filepath="$PROJECT_DIR$/../passport-formation/.idea/passport-formation.iml" />
+      <module fileurl="file://$USER_HOME$/projects/stackSf/.idea/stackSf.iml" filepath="$USER_HOME$/projects/stackSf/.idea/stackSf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syfea/.idea/syfea.iml" filepath="$PROJECT_DIR$/../syfea/.idea/syfea.iml" />
+    </modules>
+  </component>
+</project>
